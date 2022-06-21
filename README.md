@@ -120,3 +120,10 @@ Requirements:
   This should apply to using LZX-licensed tooling to support a product.
   Tooling includes monitoring, alarming, deployment, CI/CD, offline data processing, admin consoles, etc.
 - When the license is updated, all previous contributions automatically get licensed under the new version
+
+## TO DO
+- Link to https://ledger.humanetech.com/
+- Consume all the content on https://www.humanetech.com/
+- Contact https://www.tristanharris.com/ about collaborating
+- Read Hooked
+- Write specific prohibitions
