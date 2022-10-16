@@ -26,7 +26,7 @@ Limitations:
 ## About Louis Brandeis
 
 The license is named for [Louis Brandeis](https://en.wikipedia.org/wiki/Louis_Brandeis),
-was an American lawyer and member of the Supreme Court of the United States 1916-1939.
+was an American lawyer and U.S. Supreme Court justice.
 He helped develop the Right to Privacy concept in US law.
 Throughout his long career, he helped businesses to treat people fairly, protected freedom of speech,
 advanced states' rights, and tempered the power of big business.
@@ -88,6 +88,21 @@ Requirements:
   This should apply to using Brandeis-licensed tooling to support a product.
   Tooling includes monitoring, alarming, deployment, CI/CD, offline data processing, admin consoles, etc.
 - When the license is updated, all previous contributions automatically get licensed under the new version
+
+## Versioning
+Law must evolve to meet the changing needs of society.
+The Brandeis License will be updated periodically by the Brandeis License Committee.
+
+We name versions of the license with the year, eg. Brandeis-2022.
+
+When someone contributes to a Brandeis-licensed project,
+they implicitly grant anyone the right to use their contribution,
+under the latest version of the license published as of two years before the contribution
+or any later version of the license.
+
+When a new version of the license is released with an added prohibition,
+people violating the new prohibition may continue to use the Brandeis-licensed
+software for 2 years, including updates and bug fixes.
 
 ## TO DO
 - Link to https://ledger.humanetech.com/
